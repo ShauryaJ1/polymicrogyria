@@ -4,8 +4,7 @@
 
 Polymicrogyria (PMG) is a rare neurological con-
 dition characterized by abnormal cerebral cortex development,
-leading to excessive small, malformed gyri. With clinical manifes-
-tations including seizures, developmental delays, and intellectual
+leading to excessive small, malformed gyri. With clinical manifestations including seizures, developmental delays, and intellectual
 difficulties, accurate diagnosis is crucial yet often reliant on
 subjective interpretation of MRI scans by radiologists. This study
 explores the application of machine learning (ML) techniques,
@@ -17,8 +16,7 @@ reliable diagnostic tool that significantly enhances the accuracy
 and efficiency of PMG identification. Our results demonstrate
 that the BEiT and DeiT models outperform existing benchmarks,
 achieving high precision and recall while maintaining robustness
-against unseen data. Our best scores were achieved using the Mi-
-crosoft BEiT model, having reached an accuracy, recall, precision,
+against unseen data. Our best scores were achieved using the Microsoft BEiT model, having reached an accuracy, recall, precision,
 and accuracy of 0.999, 0.998, 1.000, and 0.999 respectively, on the
 entire dataset. This work highlights the potential of ML in clinical
 neurology, offering a path towards more timely interventions.
