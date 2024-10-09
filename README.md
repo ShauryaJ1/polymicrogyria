@@ -21,7 +21,7 @@ and accuracy of 0.999, 0.998, 1.000, and 0.999 respectively, on the
 entire dataset. This work highlights the potential of ML in clinical
 neurology, offering a path towards more timely interventions.
 
-Trained Models for this project can be found here
+Trained Models for this project can be found here:
 https://huggingface.co/sha000/ppmr-classifier-google-vit-base-patch16-224-in21k-8-epochs-full-balanced
 https://huggingface.co/sha000/ppmr-classifier-facebook-deit-base-patch16-224-8-epochs-full-balanced
 https://huggingface.co/sha000/ppmr-classifier-microsoft-beit-base-patch16-224-pt22k-ft22k-8-epochs-full-balanced
