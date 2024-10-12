@@ -19,7 +19,9 @@ achieving high precision and recall while maintaining robustness
 against unseen data. Our best scores were achieved using the Microsoft BEiT model, having reached an accuracy, recall, precision,
 and accuracy of 0.999, 0.998, 1.000, and 0.999 respectively, on the
 entire dataset. This work highlights the potential of ML in clinical
-neurology, offering a path towards more timely interventions.
+neurology, offering a path towards more timely interventions. <br>
+
+The research paper is attached to the repository. <br>
 
 Trained Models for this project can be found here:<br />
 https://huggingface.co/sha000/ppmr-classifier-google-vit-base-patch16-224-in21k-8-epochs-full-balanced<br />
